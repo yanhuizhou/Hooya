@@ -18,11 +18,5 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-
-        <!---->
-        <!--<activity-->
-            <!--android:name=".MainActivity"-->
-            <!--android:label="activity_main" >-->
-        <!--</activity>-->
     </application>
 </manifest>
